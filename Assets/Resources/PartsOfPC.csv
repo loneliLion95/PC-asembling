@@ -1,0 +1,11 @@
+name,type,pcType,socket,ramType,vcInterface,storageInterface
+Asus ROG,MotherBoard,Office,1151,DDR3,PCI-E2.0,SATA
+Asrock,MotherBoard,Gaming,1151,DDR4,PCI-E3.0,M2
+IntelCore i5,CPU,Office,1151,,,
+IntelCore i7,CPU,Gaming,1151,,,
+RTX2070,VC,Gaming,,,PCI-E3.0,
+GTX550,VC,Office,,,PCI-E2.0,
+SSD M2,Storage,Gaming,,,,M2
+HDD Sata,Storage,Office,,,,SATA
+Kingston 4gb,RAM,Office,,DDR3,,
+Kingston 16gb,RAM,Gaming,,DDR4,,
